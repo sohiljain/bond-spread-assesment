@@ -1,0 +1,24 @@
+{
+   "data": [
+      {
+         "corporate_bond_id": "c1",
+         "government_bond_id": "g1",
+         "spread_to_benchmark": "160 bps"
+      },
+      {
+         "corporate_bond_id": "c2",
+         "government_bond_id": "g2",
+         "spread_to_benchmark": "100 bps"
+      },
+      {
+         "corporate_bond_id": "c3",
+         "government_bond_id": "g4",
+         "spread_to_benchmark": "190 bps"
+      },
+      {
+         "corporate_bond_id": "c4",
+         "government_bond_id": "g3",
+         "spread_to_benchmark": "0 bps"
+      }
+   ]
+}

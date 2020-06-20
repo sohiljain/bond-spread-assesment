@@ -1,0 +1,18 @@
+# Copyright (c) 2020 Databot Inc. All rights reserved.
+# @author Sohil Jain
+
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+psycopg2-binary="*"
+pyyaml="*"
+pandas="*"
+pyspark = "*"
+
+[requires]
+python_version = "3.7"
